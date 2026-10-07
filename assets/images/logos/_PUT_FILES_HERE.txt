@@ -1,0 +1,3 @@
+Put logos images here.
+Suggested names: skillwiz-logo-primary.svg, skillwiz-logo-on-forest.svg, partner-*.svg
+Naming: lowercase, hyphens, no spaces, size suffix. See README.txt for specs.

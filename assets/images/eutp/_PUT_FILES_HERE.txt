@@ -1,0 +1,3 @@
+Put eutp images here.
+Suggested names: eutp-incubation-bench-1600.webp (+ .jpg fallback)
+Naming: lowercase, hyphens, no spaces, size suffix. See README.txt for specs.

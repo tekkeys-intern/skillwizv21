@@ -1,0 +1,4 @@
+Required names (already wired in index.html):
+ hero-1.mp4  hero-2.mp4  hero-3.mp4  hero-4.mp4   (1920x1080, H.264, 12-15 s loop, muted, under 5 MB)
+ journey-bg.mp4   (1920x1080, 20-30 s seamless loop, muted)
+Optional: matching .vtt caption files, e.g. hero-1.vtt

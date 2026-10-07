@@ -1,0 +1,3 @@
+Put proof images here.
+Suggested names: testimonial-poster-1920.webp, partner and university logo-wall files (one-colour .svg)
+Naming: lowercase, hyphens, no spaces, size suffix. See README.txt for specs.

@@ -1,0 +1,3 @@
+Put journey images here.
+Suggested names: journey-poster-1920.webp
+Naming: lowercase, hyphens, no spaces, size suffix. See README.txt for specs.

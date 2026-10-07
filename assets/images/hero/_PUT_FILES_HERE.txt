@@ -1,0 +1,3 @@
+Put hero images here.
+Suggested names: hero-leadership-poster.webp (optional poster frames)
+Naming: lowercase, hyphens, no spaces, size suffix. See README.txt for specs.

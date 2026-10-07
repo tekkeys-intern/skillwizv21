@@ -1,0 +1,3 @@
+Put karm-patri images here.
+Suggested names: karm-patri-scroll-1200.svg or .png
+Naming: lowercase, hyphens, no spaces, size suffix. See README.txt for specs.

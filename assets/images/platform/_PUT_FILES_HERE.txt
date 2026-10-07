@@ -1,0 +1,3 @@
+Put platform images here.
+Suggested names: platform-layer-1200x900.webp or .svg
+Naming: lowercase, hyphens, no spaces, size suffix. See README.txt for specs.
